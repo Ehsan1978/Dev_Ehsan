@@ -1,0 +1,4 @@
+numpy>=1.25
+sounddevice>=0.4.6
+soundfile>=0.12.1
+faster-whisper>=1.1.0
